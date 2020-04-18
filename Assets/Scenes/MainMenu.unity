@@ -795,7 +795,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   button: {fileID: 1372319013}
-  sceneName: EnterSpaceshipScene
+  sceneName: EnterSpaceship
 --- !u!114 &1372319013
 MonoBehaviour:
   m_ObjectHideFlags: 0

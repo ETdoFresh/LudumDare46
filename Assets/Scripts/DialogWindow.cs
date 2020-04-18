@@ -11,8 +11,14 @@ public class DialogWindow : MonoBehaviour
         text = GetComponentInChildren<Text>();
     }
 
-    public void SetText(string text)
+    public void ShowText(string text)
     {
+        gameObject.SetActive(true);
         this.text.text = text;
+    }
+
+    public void HideText()
+    {
+        gameObject.SetActive(false);
     }
 }

@@ -8,4 +8,25 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/SampleScene.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/CommandModuleScene.unity
+    guid: 4c3e31818af8efc42808c6abf322efb5
+  - enabled: 1
+    path: Assets/Scenes/EnterSpaceshipScene.unity
+    guid: d02a0bb43d431994fb9e0cb0a8b6adae
+  - enabled: 1
+    path: Assets/Scenes/GroundControlScene.unity
+    guid: 9a113af3f9259db4d8559ac5d711e0f1
+  - enabled: 1
+    path: Assets/Scenes/LunarModuleScene.unity
+    guid: 192d262eac4358840bcfc25bf5b0345a
+  - enabled: 1
+    path: Assets/Scenes/MenuScene.unity
+    guid: 339a9dce52c49264d9656abb9d0d16c6
+  - enabled: 1
+    path: Assets/Scenes/SpaceScene.unity
+    guid: 8012baedb0ff0f14b8006f111b3426a7
+  - enabled: 1
+    path: Assets/Scenes/VictoryScene.unity
+    guid: b60710e4e58f38444a80ca314054d83b
   m_configObjects: {}

@@ -5,7 +5,7 @@ using UnityEngine;
 public class Character : MonoBehaviour
 {
     public float movementForce;
-    private Rigidbody2D rigidbody2D;
+    public new Rigidbody2D rigidbody2D;
 
     // Start is called before the first frame update
     void Start()
@@ -17,6 +17,6 @@ public class Character : MonoBehaviour
     void Update()
     {
         var input = new Vector3(Input.GetAxisRaw("Horizontal"), Input.GetAxisRaw("Vertical"), 0);
-        rigidbody2D.MovePosition(transform.position + (input * movementForce));
+        rigidbody2D.AddForce(input * movementForce);
     }
 }

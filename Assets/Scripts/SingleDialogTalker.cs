@@ -6,7 +6,6 @@ using UnityEngine.SceneManagement;
 
 public class SingleDialogTalker : MonoBehaviour
 {
-    public string npcName = "NPC-1";
     public string sceneName = "";
     public List<string> text = new List<string>
     {
@@ -26,7 +25,7 @@ public class SingleDialogTalker : MonoBehaviour
 
     public void ShowDialog()
     {
-        Main.singleton.dialogWindow.ShowText(text[index]);
+        Main.singleton.dialogWindow.ShowText(name, text[index]);
         index = (index + 1) % text.Count;
     }
 }

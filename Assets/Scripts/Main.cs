@@ -1,6 +1,8 @@
-﻿using System.Collections;
+﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class Main : MonoBehaviour
 {
@@ -17,10 +19,19 @@ public class Main : MonoBehaviour
         singleton.name = "Main";
         DontDestroyOnLoad(singleton.gameObject);
     }
-    
+
     public static DialogWindow GetDialogWindow()
     {
         if (!singleton) return null;
         return singleton.dialogWindow;
+    }
+
+    private void Update()
+    {
+        if (Input.GetKeyDown(KeyCode.R))
+        {
+            SceneManager.LoadScene(0);
+            DateUI.Destroy();
+        }
     }
 }

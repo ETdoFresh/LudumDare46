@@ -14,7 +14,7 @@ public class InteractionControls : MonoBehaviour
 
     private void Update()
     {
-        if (Input.GetButtonDown("Fire1"))
+        if (Input.GetButtonDown("Fire1") || Input.GetButtonDown("Jump"))
         {
             if (interactor.isInteracting)
             {

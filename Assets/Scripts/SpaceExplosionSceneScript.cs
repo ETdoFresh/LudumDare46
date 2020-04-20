@@ -50,6 +50,6 @@ public class SpaceExplosionSceneScript : MonoBehaviour
     private IEnumerator ReadDialog()
     {
         yield return null;
-        SceneManager.LoadScene(sceneName);
+        FadeToBlack.LoadScene(sceneName);
     }
 }

@@ -4,18 +4,20 @@ using UnityEngine.UI;
 
 public class DialogWindow : MonoBehaviour
 {
-    public Text text;
+    public Text speaker;
+    public Text dialog;
 
-    private void Start()
+    private void OnValidate()
     {
-        text = GetComponentInChildren<Text>();
+        if (!speaker) speaker = GetComponentInChildren<Text>();
+        if (!dialog) dialog = GetComponentInChildren<Text>();
     }
 
     public void ShowText(string name, string text)
     {
         gameObject.SetActive(true);
-        this.text.text = $"{name}:\n";
-        this.text.text += text;
+        speaker.text = name;
+        dialog.text = text;
     }
 
     public void HideText()

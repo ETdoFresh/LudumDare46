@@ -1,0 +1,568 @@
+fileFormatVersion: 2
+guid: d60c796f4b89314459cb344c6eec2009
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1807168540875179034
+    second: GrassPlus_9
+  - first:
+      213: -5227378412144521692
+    second: GrassPlus_10
+  - first:
+      213: 5650785048573179553
+    second: GrassPlus_11
+  - first:
+      213: -3028973864787026484
+    second: GrassPlus_12
+  - first:
+      213: 5094582680729123490
+    second: GrassPlus_13
+  - first:
+      213: 4421703499621915176
+    second: GrassPlus_14
+  - first:
+      213: -307203078519416530
+    second: GrassPlus_15
+  - first:
+      213: 4101895826587136666
+    second: GrassPlus_16
+  - first:
+      213: 4683263261910664171
+    second: GrassPlus_17
+  - first:
+      213: 8670582256003035456
+    second: GrassPlus_18
+  - first:
+      213: 4626674430485565878
+    second: GrassPlus_19
+  - first:
+      213: -4786498029889545063
+    second: GrassPlus_20
+  - first:
+      213: 8121390833227783771
+    second: GrassPlus_21
+  - first:
+      213: -2883265901665326924
+    second: GrassPlus_40
+  - first:
+      213: -837071910070885640
+    second: GrassPlus_41
+  - first:
+      213: -639256201213900649
+    second: GrassPlus_42
+  - first:
+      213: 6386974597370741361
+    second: GrassPlus_43
+  - first:
+      213: 952466233623308837
+    second: GrassPlus_44
+  - first:
+      213: 3424604253978933378
+    second: GrassPlus_45
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GrassPlus_9
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1290
+        width: 75
+        height: 680
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b3af91b2c08d7f45ac37c3fc78ee41c
+      internalID: -1807168540875179034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassPlus_10
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 1842
+        width: 219
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f6e8e8cc7a8fda428ff988044266dce
+      internalID: -5227378412144521692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassPlus_11
+      rect:
+        serializedVersion: 2
+        x: 2407
+        y: 1708
+        width: 597
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f05a30d70f0d3d49abb46faf7ccdaf9
+      internalID: 5650785048573179553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassPlus_12
+      rect:
+        serializedVersion: 2
+        x: 2964
+        y: 1925
+        width: 317
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7d213734dba8934f8962f7d8f36f2d4
+      internalID: -3028973864787026484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassPlus_13
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 1777
+        width: 217
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09a41123c8d5c6c459b4caeb55e5568c
+      internalID: 5094582680729123490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassPlus_14
+      rect:
+        serializedVersion: 2
+        x: 2109
+        y: 1240
+        width: 96
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a459f446b845d4f4b96ecd905c48452d
+      internalID: 4421703499621915176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassPlus_15
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 1574
+        width: 210
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 435926cd9df68ce4386b0481e8e8eec9
+      internalID: -307203078519416530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassPlus_16
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 1542
+        width: 215
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f30dc56ee6901e74a8e3f0f9495a62eb
+      internalID: 4101895826587136666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassPlus_17
+      rect:
+        serializedVersion: 2
+        x: 2471
+        y: 1417
+        width: 444
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e421ab203dff5549bc55ae7c989af50
+      internalID: 4683263261910664171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassPlus_18
+      rect:
+        serializedVersion: 2
+        x: 3050
+        y: 1538
+        width: 250
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bc3b3cb2357eac4ea29158fe224acc4
+      internalID: 8670582256003035456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassPlus_19
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 1366
+        width: 172
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 280d38836f9fb334fa1244a68e48920e
+      internalID: 4626674430485565878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassPlus_20
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 1213
+        width: 290
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d8b7edb9e26cb844896cd243f95a486
+      internalID: -4786498029889545063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassPlus_21
+      rect:
+        serializedVersion: 2
+        x: 2809
+        y: 1158
+        width: 161
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f336eaa4a2e0dae46a929c3fc477a88d
+      internalID: 8121390833227783771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassPlus_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 148
+        width: 1183
+        height: 386
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11af63a64eefbdd4bae46b7f531369b9
+      internalID: -2883265901665326924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassPlus_41
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 499
+        width: 884
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 181452069b6c1e6439dceac192007e57
+      internalID: -837071910070885640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassPlus_42
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 144
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c3449a2d753aa14b8416bd5c43af934
+      internalID: -639256201213900649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassPlus_43
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 140
+        width: 47
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d227d4b95ea83514b95cadf8016390d0
+      internalID: 6386974597370741361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassPlus_44
+      rect:
+        serializedVersion: 2
+        x: 1397
+        y: 0
+        width: 1903
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 622038a613ff39146a8ca70de369ba90
+      internalID: 952466233623308837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GrassPlus_45
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 0
+        width: 89
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89dbe6dff4aa66b46a2fe83d596fdc2b
+      internalID: 3424604253978933378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 441b445178945374687796b0077d5b0f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

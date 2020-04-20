@@ -7,6 +7,6 @@ public class LoadSceneOnEnable : MonoBehaviour
 
     private void OnEnable()
     {
-        SceneManager.LoadScene(sceneName);
+        FadeToBlack.LoadScene(sceneName);
     }
 }

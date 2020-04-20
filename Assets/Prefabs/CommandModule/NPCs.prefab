@@ -42,12 +42,12 @@ PrefabInstance:
     - target: {fileID: 6702899055955226354, guid: 313ff48a90be6e04bab983970cf41e21,
         type: 3}
       propertyPath: m_Name
-      value: NPC (2)
+      value: Astronaut 2
       objectReference: {fileID: 0}
     - target: {fileID: 6702899055955226358, guid: 313ff48a90be6e04bab983970cf41e21,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0
+      value: 1.1
       objectReference: {fileID: 0}
     - target: {fileID: 6702899055955226358, guid: 313ff48a90be6e04bab983970cf41e21,
         type: 3}
@@ -98,6 +98,47 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6702899055955226357, guid: 313ff48a90be6e04bab983970cf41e21,
+        type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: -1467691370905001408, guid: f9e3cb312052a494981ff1f463f07a08,
+        type: 3}
+    - target: {fileID: 6702899055955226357, guid: 313ff48a90be6e04bab983970cf41e21,
+        type: 3}
+      propertyPath: m_Color.r
+      value: 0.81799996
+      objectReference: {fileID: 0}
+    - target: {fileID: 6702899055955226357, guid: 313ff48a90be6e04bab983970cf41e21,
+        type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6702899055955226357, guid: 313ff48a90be6e04bab983970cf41e21,
+        type: 3}
+      propertyPath: m_Color.b
+      value: 0.8349016
+      objectReference: {fileID: 0}
+    - target: {fileID: 6702899055955226356, guid: 313ff48a90be6e04bab983970cf41e21,
+        type: 3}
+      propertyPath: m_SpriteTilingProperty.pivot.x
+      value: 0.5499039
+      objectReference: {fileID: 0}
+    - target: {fileID: 6702899055955226356, guid: 313ff48a90be6e04bab983970cf41e21,
+        type: 3}
+      propertyPath: m_SpriteTilingProperty.pivot.y
+      value: 0.05686396
+      objectReference: {fileID: 0}
+    - target: {fileID: 6702899055955226356, guid: 313ff48a90be6e04bab983970cf41e21,
+        type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.x
+      value: 0.64779955
+      objectReference: {fileID: 0}
+    - target: {fileID: 6702899055955226356, guid: 313ff48a90be6e04bab983970cf41e21,
+        type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.y
+      value: 1.2255555
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 313ff48a90be6e04bab983970cf41e21, type: 3}
@@ -117,7 +158,7 @@ PrefabInstance:
     - target: {fileID: 6702899055955226354, guid: 313ff48a90be6e04bab983970cf41e21,
         type: 3}
       propertyPath: m_Name
-      value: NPC (1)
+      value: Astronaut 1
       objectReference: {fileID: 0}
     - target: {fileID: 6702899055955226358, guid: 313ff48a90be6e04bab983970cf41e21,
         type: 3}
@@ -173,6 +214,42 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6702899055955226357, guid: 313ff48a90be6e04bab983970cf41e21,
+        type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: -1467691370905001408, guid: f9e3cb312052a494981ff1f463f07a08,
+        type: 3}
+    - target: {fileID: 6702899055955226357, guid: 313ff48a90be6e04bab983970cf41e21,
+        type: 3}
+      propertyPath: m_Color.r
+      value: 0.83261836
+      objectReference: {fileID: 0}
+    - target: {fileID: 6702899055955226357, guid: 313ff48a90be6e04bab983970cf41e21,
+        type: 3}
+      propertyPath: m_Color.g
+      value: 0.832
+      objectReference: {fileID: 0}
+    - target: {fileID: 6702899055955226356, guid: 313ff48a90be6e04bab983970cf41e21,
+        type: 3}
+      propertyPath: m_SpriteTilingProperty.pivot.x
+      value: 0.5499039
+      objectReference: {fileID: 0}
+    - target: {fileID: 6702899055955226356, guid: 313ff48a90be6e04bab983970cf41e21,
+        type: 3}
+      propertyPath: m_SpriteTilingProperty.pivot.y
+      value: 0.05686396
+      objectReference: {fileID: 0}
+    - target: {fileID: 6702899055955226356, guid: 313ff48a90be6e04bab983970cf41e21,
+        type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.x
+      value: 0.64779955
+      objectReference: {fileID: 0}
+    - target: {fileID: 6702899055955226356, guid: 313ff48a90be6e04bab983970cf41e21,
+        type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.y
+      value: 1.2255555
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 313ff48a90be6e04bab983970cf41e21, type: 3}

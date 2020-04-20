@@ -27,7 +27,7 @@ public class LoadSceneOnInteract : MonoBehaviour
 
     public void LoadScene()
     {
-        SceneManager.LoadScene(sceneName);
+        FadeToBlack.LoadScene(sceneName);
     }
 
     public void AddCallback(UnityEvent unityEvent, UnityAction action)

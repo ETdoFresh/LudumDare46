@@ -12,9 +12,9 @@ public class ScrollWrapPositionX : MonoBehaviour
 
     private void Update()
     {
-        var position = repeat.transform.position;
+        var position = repeat.transform.localPosition;
         position.x -= speed * Time.deltaTime;
         if (position.x < minX) position.x = maxX;
-        repeat.transform.position = position;
+        repeat.transform.localPosition = position;
     }
 }
